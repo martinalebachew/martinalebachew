@@ -15,6 +15,8 @@
 <img alt="Ghidra" width="30px" style="padding-right:10px;" src="assets/ghidra.svg"/>
 <img alt="Ida" width="30px" style="padding-right:10px;" src="assets/ida.png"/>
 
+<br>
+
 <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
