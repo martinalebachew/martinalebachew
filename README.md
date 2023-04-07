@@ -5,7 +5,7 @@
 <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/followers/martinalebachew?labelColor=F1C76A&color=FDE2AE&label=Stars&logo=star&logoColor=white&style=for-the-badge">
 <br>
 
-<img src="https://streak-stats.demolab.com?user=martinalebachew&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=martinalebachew&hide_border=true&theme=dark">
 
 <h3 align="center">🧰 Languages and Tools</h1>
 <img alt="Assembly" width="30px" style="padding-right:10px;" src="assets/assembly.svg"/>
