@@ -29,10 +29,7 @@
 <img alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 
 <br>
-<br>
 
-<img style="padding:20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalebachew">
-  
 </div>
 
 <!--
