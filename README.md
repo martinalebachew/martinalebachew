@@ -1,11 +1,9 @@
+<div align="center">
 <h1 align="center">Hi There, I'm Martin 👋🏾</h1>
 
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=martinalebachew&hide_border=true">
-</div>
 
 <h3 align="center">🧰 Languages and Tools</h1>
-<div align="center">
 <img alt="Assembly" width="30px" style="padding-right:10px;" src="assets/assembly.svg"/>
 <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -29,8 +27,13 @@
 <img alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-</div>
 
+<br>
+<br>
+
+<img style="padding:20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalebachew">
+  
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
