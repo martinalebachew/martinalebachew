@@ -3,13 +3,13 @@
 <h3 align="center">🧰 Languages and Tools</h1>
 
 <div align="center">
-<img alt="Assembly" width="30px" style="padding-right:10px;" src=""/>
+<img alt="Assembly" width="30px" style="padding-right:10px;" src="assets/assembly.svg"/>
 <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img alt="PowerShell" width="30px" style="padding-right:10px;" src=""/>
+<img alt="PowerShell" width="30px" style="padding-right:10px;" src="assets/powershell.svg"/>
 <img alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 
 
