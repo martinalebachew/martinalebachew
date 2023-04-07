@@ -1,8 +1,10 @@
 <div align="center">
+
 <h1>Hi There, I'm Martin 👋🏾</h1>
 
-<h3>Languages and Tools</h3>
+<img src="https://streak-stats.demolab.com?user=martinalebachew&hide_border=true&theme=dark">
 
+<h3>Languages and Tools</h3>
 <img alt="Assembly" width="30px" style="padding-right:10px;" src="assets/assembly.svg"/>
 <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
