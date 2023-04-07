@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hi There, I'm Martin 👋🏾</h1>
   
-<img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/martinalebachew?labelColor=737373&color=A6A6A6&label=Followers&logo=person&logoColor=white&style=for-the-badge">
-<img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/followers/martinalebachew?labelColor=737373&color=A6A6A6&label=Stars&logo=star&logoColor=white&style=for-the-badge">
+<img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/martinalebachew?labelColor=6AC4F1&color=AEE1FD&label=Followers&logo=person&logoColor=white&style=for-the-badge">
+<img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/followers/martinalebachew?labelColor=F1C76A&color=FDE2AE&label=Stars&logo=star&logoColor=white&style=for-the-badge">
 <br>
 
 <img src="https://streak-stats.demolab.com?user=martinalebachew&hide_border=true">
