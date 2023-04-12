@@ -2,7 +2,7 @@
 
 <h1>Hi There, I'm Martin 👋🏾</h1>
 
-<img src="https://streak-stats.demolab.com?user=martinalebachew&hide_border=true&theme=dark">
+<img src="https://streak-stats.demolab.com?user=martinalebachew&theme=horizon&hide_border=true&background=00000000&ring=EB7E38&fire=EB7E38&currStreakNum=EB7E38&sideNums=EB7E38&sideLabels=EB7E38&dates=EB7E38&currStreakLabel=EB7E38&stroke=EB7E38">
 
 <h3>Languages and Tools</h3>
 <img alt="Assembly" width="30px" style="padding-right:10px;" src="assets/assembly.svg"/>
