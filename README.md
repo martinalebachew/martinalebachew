@@ -5,7 +5,8 @@
 <img src="https://streak-stats.demolab.com?user=martinalebachew&theme=horizon&hide_border=true&background=00000000&ring=EB7E38&fire=EB7E38&currStreakNum=EB7E38&sideNums=EB7E38&sideLabels=EB7E38&dates=EB7E38&currStreakLabel=EB7E38&stroke=EB7E38">
 
 <h3>Languages and Tools</h3>
-<img alt="Assembly" width="30px" style="padding-right:10px;" src="assets/assembly.svg"/>
+<img alt="Assembly arm" width="30px" style="padding-right:10px;" src="assets/assembly-arm.svg"/>
+<img alt="Assembly 8086" width="30px" style="padding-right:10px;" src="assets/assembly-8086.svg"/>
 <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -15,7 +16,6 @@
 <img alt="PowerShell" width="30px" style="padding-right:10px;" src="assets/powershell.svg"/>
 <img alt="Linux" width="30px" style="padding-right:10px;" src="assets/linux.svg"/>
 <img alt="Ghidra" width="30px" style="padding-right:10px;" src="assets/ghidra.svg"/>
-<img alt="Ida" width="30px" style="padding-right:10px;" src="assets/ida.png"/>
 
 <br>
 
@@ -29,4 +29,5 @@
 <img alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="Ida" width="30px" style="padding-right:10px;" src="assets/ida.png"/>
 </div>
