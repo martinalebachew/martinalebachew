@@ -5,8 +5,8 @@
 <img src="https://streak-stats.demolab.com?user=martinalebachew&theme=horizon&hide_border=true&background=00000000&ring=EB7E38&fire=EB7E38&currStreakNum=EB7E38&sideNums=EB7E38&sideLabels=EB7E38&dates=EB7E38&currStreakLabel=EB7E38&stroke=EB7E38">
 
 <h3>Languages and Tools</h3>
-<img alt="Assembly arm" width="30px" style="padding-right:10px;" src="assets/assembly-arm.svg"/>
-<img alt="Assembly 8086" width="30px" style="padding-right:10px;" src="assets/assembly-8086.svg"/>
+<img alt="arm assembly" width="30px" style="padding-right:10px;" src="assets/assembly-arm.svg"/>
+<img alt="x86 assembly" width="30px" style="padding-right:10px;" src="assets/assembly-x86.svg"/>
 <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
