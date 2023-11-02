@@ -16,6 +16,7 @@
 <img alt="PowerShell" width="30px" style="padding-right:10px;" src="assets/powershell.svg"/>
 <img alt="Linux" width="30px" style="padding-right:10px;" src="assets/linux.svg"/>
 <img alt="Ghidra" width="30px" style="padding-right:10px;" src="assets/ghidra.svg"/>
+<img alt="Ida" width="30px" style="padding-right:10px;" src="assets/ida.png"/>
 
 <br>
 
@@ -27,7 +28,7 @@
 <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
 <img alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/>
 <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img alt="Ida" width="30px" style="padding-right:10px;" src="assets/ida.png"/>
 </div>
